@@ -12,8 +12,8 @@
 ##
 <div align="center">
   <a href="https://github.com/chtwikee">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=chtwikee&theme=codeSTACKr"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chtwikee&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=chtwikee&theme=codeSTACKr"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chtwikee&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="ch-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
