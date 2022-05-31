@@ -3,6 +3,12 @@
 - 👨‍💻 Atualmente estou cursando web developer full-stack - Blue edtech;
 - 📭 Contate-me: carlosh.sales@outlook.com;
 - 😊 Pronome: ele/dele;
+
+<div>
+  <img alt="ch-process" heigth="100" width="150" src="https://img.shields.io/badge/AMD-Ryzen_3_2200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+  <img alt="ch-process" heigth="100" width="150" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
 ##
 <div align="center">
   <a href="https://github.com/chtwikee">
@@ -25,3 +31,5 @@
   ![Snake animation](https://github.com/chtwikee/chtwikee/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+
