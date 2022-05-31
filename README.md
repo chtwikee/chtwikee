@@ -1,8 +1,8 @@
 ### Olá, me chamo Carlos Henrique (Twikee) e...
 
-- 👨‍💻 Atualmente estou cursando web developer full-stack - Blue edtech;
-- 📭 Contate-me: carlosh.sales@outlook.com;
-- 😊 Pronome: ele/dele;
+- 👨‍💻 Atualmente estou cursando web developer full-stack - Blue edtech
+- 📭 Contate-me: carlosh.sales@outlook.com
+- 😊 Pronome: ele/dele
 
 <div>
   <img alt="ch-process" heigth="100" width="150" src="https://img.shields.io/badge/AMD-Ryzen_3_2200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
